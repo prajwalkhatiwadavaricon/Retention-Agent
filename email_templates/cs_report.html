@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Client Usage Analytics - Varicon CS Team</title>
+    <style>
+        body {
+            font-family: 'Roboto Flex', sans-serif;
+            background-color: #e5f1fc !important;
+            margin: 0;
+            padding: 20px;
+        }
+        .metric-box {
+            background: #f8fafc;
+            border-radius: 8px;
+            padding: 16px;
+            text-align: center;
+            border: 1px solid #e5e7eb;
+            min-height: 80px;
+        }
+        .metric-value {
+            font-size: 28px;
+            font-weight: 600;
+            color: #233759;
+            margin: 8px 0;
+        }
+        .metric-label {
+            font-size: 12px;
+            color: #6b7280;
+            text-transform: uppercase;
+        }
+        .section-title {
+            color: #233759;
+            font-size: 18px;
+            font-weight: 600;
+            margin-bottom: 20px;
+            padding-bottom: 12px;
+            border-bottom: 1px solid #e5e7eb;
+        }
+    </style>
+</head>
+<body>
+    <table width="600" cellspacing="0" cellpadding="0" border="0" style="margin: 0 auto; background-color: #ffffff; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08); border-radius: 8px; overflow: hidden;">
+        <!-- Header -->
+        <tr>
+            <td style="padding: 24px; background: #ffffff;">
+                <img src="https://mystaticimg.s3.ap-southeast-2.amazonaws.com/icons/varicon-icon.png" width="132" style="display: block;" />
+            </td>
+        </tr>
+
+        <!-- Content -->
+        <tr>
+            <td style="padding: 40px 48px;">
+                <!-- CS Header -->
+                <div style="background: #f0f9ff; border-radius: 8px; padding: 24px; margin-bottom: 32px; border-left: 4px solid #3b82f6;">
+                    <h2 style="color: #1e40af; font-size: 22px; font-weight: 600; margin: 0 0 8px 0;">
+                        👤 Client Portfolio Analytics
+                    </h2>
+                    <p style="color: #4b5563; font-size: 15px; margin: 0;">
+                        CS Representative: <strong style="color: #1e40af;">{{cs_rep_name}}</strong> • Portfolio Size: {{total_clients}} Clients
+                    </p>
+                </div>
+
+                <!-- Portfolio Summary -->
+                <h2 style="color: #233759; font-size: 18px; font-weight: 600; margin-bottom: 20px; padding-bottom: 12px; border-bottom: 1px solid #e5e7eb;">📊 Portfolio Overview</h2>
+
+                <table width="100%" cellspacing="0" cellpadding="0" border="0" style="margin-bottom: 32px;">
+                    <tr>
+                        <td width="25%" style="padding-right: 8px;">
+                            <div style="background: #f8fafc; border-radius: 8px; padding: 16px; text-align: center; border: 1px solid #e5e7eb;">
+                                <div style="font-size: 28px; font-weight: 600; color: #233759; margin: 8px 0;">{{total_clients}}</div>
+                                <div style="font-size: 12px; color: #6b7280; text-transform: uppercase;">Total Clients</div>
+                            </div>
+                        </td>
+                        <td width="25%" style="padding: 0 4px;">
+                            <div style="background: #f8fafc; border-radius: 8px; padding: 16px; text-align: center; border: 1px solid #e5e7eb;">
+                                <div style="font-size: 28px; font-weight: 600; color: #dc2626; margin: 8px 0;">{{high_risk_count}}</div>
+                                <div style="font-size: 12px; color: #6b7280; text-transform: uppercase;">High Risk</div>
+                            </div>
+                        </td>
+                        <td width="25%" style="padding: 0 4px;">
+                            <div style="background: #f8fafc; border-radius: 8px; padding: 16px; text-align: center; border: 1px solid #e5e7eb;">
+                                <div style="font-size: 28px; font-weight: 600; color: #d97706; margin: 8px 0;">{{medium_risk_count}}</div>
+                                <div style="font-size: 12px; color: #6b7280; text-transform: uppercase;">Medium Risk</div>
+                            </div>
+                        </td>
+                        <td width="25%" style="padding-left: 8px;">
+                            <div style="background: #f8fafc; border-radius: 8px; padding: 16px; text-align: center; border: 1px solid #e5e7eb;">
+                                <div style="font-size: 28px; font-weight: 600; color: #10b981; margin: 8px 0;">{{low_risk_count}}</div>
+                                <div style="font-size: 12px; color: #6b7280; text-transform: uppercase;">Low Risk</div>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+
+                <!-- Client Cards -->
+                {{client_cards}}
+
+                <!-- Recommended Actions -->
+                <h2 style="color: #233759; font-size: 18px; font-weight: 600; margin-bottom: 20px; padding-bottom: 12px; border-bottom: 1px solid #e5e7eb;">🎯 Recommended Actions</h2>
+
+                {{action_items}}
+
+                <!-- CTA Button -->
+                <table width="100%" cellspacing="0" cellpadding="0" border="0" style="margin-top: 32px; margin-bottom: 32px;">
+                    <tr>
+                        <td align="center">
+                            <a href="https://api-development.varicontest.com.au/cs/feature-module-dashboard/" style="display: inline-block; padding: 12px 24px; background: #3b82f6; color: white; text-decoration: none; border-radius: 6px; font-weight: 500; font-size: 14px;">
+                                View Detailed Analytics Dashboard
+                            </a>
+                        </td>
+                    </tr>
+                </table>
+
+                <!-- Footer Note -->
+                <div style="background: #f8fafc; border-radius: 8px; padding: 20px; margin-top: 24px; border-top: 1px solid #e5e7eb;">
+                    <p style="color: #6b7280; font-size: 12px; text-align: center; margin: 0 0 8px 0;">
+                        <strong>Predictive Client Retention & Engagement AI • Automated Portfolio Analysis</strong>
+                    </p>
+                    <p style="color: #6b7280; font-size: 11px; text-align: center; margin: 0;">
+                        Report generated: {{generated_date}}<br>
+                        Analysis period: 12 weeks
+                    </p>
+                </div>
+            </td>
+        </tr>
+
+        <!-- Footer -->
+        <tr>
+            <td style="background: #eaedf1; padding: 24px 48px; text-align: center;">
+                <p style="color: #233759; font-size: 12px; margin: 0 0 16px 0;">
+                    123 Business St, Sydney NSW 2000, Australia
+                </p>
+                <a href="https://varicon.com.au" style="color: #5f6d83; font-size: 10px; text-decoration: none;">Visit Us</a> |
+                <a href="https://varicon.com.au/privacy" style="color: #5f6d83; font-size: 10px; text-decoration: none;">Privacy Policy</a> |
+                <a href="https://varicon.com.au/terms" style="color: #5f6d83; font-size: 10px; text-decoration: none;">Terms of Use</a>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
+

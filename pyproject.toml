@@ -1,0 +1,17 @@
+[project]
+name = "retentaion-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "chromadb>=1.4.0",
+    "fastapi>=0.128.0",
+    "langchain-community>=0.4.1",
+    "langchain-google-genai>=2.0.0",
+    "langchain>=0.3.0",
+    "langgraph>=1.0.5",
+    "pillow>=12.1.0",
+    "python-dotenv>=1.0.0",
+    "uvicorn>=0.40.0",
+]

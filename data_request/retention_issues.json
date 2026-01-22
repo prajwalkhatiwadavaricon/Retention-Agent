@@ -1,0 +1,2614 @@
+[
+  {
+    "client_name": "Beni Bazar",
+    "usage": [
+      {
+        "start_range": "27-10-2025",
+        "end_range": "02-11-2025",
+        "previous_activity_week": "",
+        "current_activity_week": "0",
+        "activities": []
+      },
+      {
+        "start_range": "03-11-2025",
+        "end_range": "09-11-2025",
+        "previous_activity_week": "0",
+        "current_activity_week": "1",
+        "activities": []
+      },
+      {
+        "start_range": "10-11-2025",
+        "end_range": "16-11-2025",
+        "previous_activity_week": "1",
+        "current_activity_week": "2",
+        "activities": []
+      },
+      {
+        "start_range": "17-11-2025",
+        "end_range": "23-11-2025",
+        "previous_activity_week": "2",
+        "current_activity_week": "3",
+        "activities": []
+      },
+      {
+        "start_range": "24-11-2025",
+        "end_range": "30-11-2025",
+        "previous_activity_week": "3",
+        "current_activity_week": "4",
+        "activities": []
+      },
+      {
+        "start_range": "01-12-2025",
+        "end_range": "07-12-2025",
+        "previous_activity_week": "4",
+        "current_activity_week": "5",
+        "activities": []
+      },
+      {
+        "start_range": "08-12-2025",
+        "end_range": "14-12-2025",
+        "previous_activity_week": "5",
+        "current_activity_week": "6",
+        "activities": []
+      },
+      {
+        "start_range": "15-12-2025",
+        "end_range": "21-12-2025",
+        "previous_activity_week": "6",
+        "current_activity_week": "7",
+        "activities": []
+      },
+      {
+        "start_range": "22-12-2025",
+        "end_range": "28-12-2025",
+        "previous_activity_week": "7",
+        "current_activity_week": "8",
+        "activities": []
+      },
+      {
+        "start_range": "29-12-2025",
+        "end_range": "04-01-2026",
+        "previous_activity_week": "8",
+        "current_activity_week": "9",
+        "activities": []
+      },
+      {
+        "start_range": "05-01-2026",
+        "end_range": "11-01-2026",
+        "previous_activity_week": "9",
+        "current_activity_week": "10",
+        "activities": []
+      },
+      {
+        "start_range": "12-01-2026",
+        "end_range": "18-01-2026",
+        "previous_activity_week": "10",
+        "current_activity_week": "11",
+        "activities": []
+      }
+    ],
+    "client_representatives": []
+  },
+  {
+    "client_name": "Biwash Tenant",
+    "usage": [
+      {
+        "start_range": "27-10-2025",
+        "end_range": "02-11-2025",
+        "previous_activity_week": "",
+        "current_activity_week": "0",
+        "activities": []
+      },
+      {
+        "start_range": "03-11-2025",
+        "end_range": "09-11-2025",
+        "previous_activity_week": "0",
+        "current_activity_week": "1",
+        "activities": []
+      },
+      {
+        "start_range": "10-11-2025",
+        "end_range": "16-11-2025",
+        "previous_activity_week": "1",
+        "current_activity_week": "2",
+        "activities": []
+      },
+      {
+        "start_range": "17-11-2025",
+        "end_range": "23-11-2025",
+        "previous_activity_week": "2",
+        "current_activity_week": "3",
+        "activities": []
+      },
+      {
+        "start_range": "24-11-2025",
+        "end_range": "30-11-2025",
+        "previous_activity_week": "3",
+        "current_activity_week": "4",
+        "activities": []
+      },
+      {
+        "start_range": "01-12-2025",
+        "end_range": "07-12-2025",
+        "previous_activity_week": "4",
+        "current_activity_week": "5",
+        "activities": []
+      },
+      {
+        "start_range": "08-12-2025",
+        "end_range": "14-12-2025",
+        "previous_activity_week": "5",
+        "current_activity_week": "6",
+        "activities": []
+      },
+      {
+        "start_range": "15-12-2025",
+        "end_range": "21-12-2025",
+        "previous_activity_week": "6",
+        "current_activity_week": "7",
+        "activities": []
+      },
+      {
+        "start_range": "22-12-2025",
+        "end_range": "28-12-2025",
+        "previous_activity_week": "7",
+        "current_activity_week": "8",
+        "activities": []
+      },
+      {
+        "start_range": "29-12-2025",
+        "end_range": "04-01-2026",
+        "previous_activity_week": "8",
+        "current_activity_week": "9",
+        "activities": []
+      },
+      {
+        "start_range": "05-01-2026",
+        "end_range": "11-01-2026",
+        "previous_activity_week": "9",
+        "current_activity_week": "10",
+        "activities": []
+      },
+      {
+        "start_range": "12-01-2026",
+        "end_range": "18-01-2026",
+        "previous_activity_week": "10",
+        "current_activity_week": "11",
+        "activities": []
+      }
+    ],
+    "client_representatives": [
+      {
+        "full_name": "Amir Mitri",
+        "email": "amir@varicon.com.au"
+      }
+    ]
+  },
+  {
+    "client_name": "CHECK FOR NEW",
+    "usage": [
+      {
+        "start_range": "27-10-2025",
+        "end_range": "02-11-2025",
+        "previous_activity_week": "",
+        "current_activity_week": "0",
+        "activities": [
+          {
+            "name": "Projects",
+            "count": 2
+          },
+          {
+            "name": "Tasks",
+            "count": 28
+          },
+          {
+            "name": "Reports",
+            "count": 3
+          },
+          {
+            "name": "Suppliers",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "start_range": "03-11-2025",
+        "end_range": "09-11-2025",
+        "previous_activity_week": "0",
+        "current_activity_week": "1",
+        "activities": []
+      },
+      {
+        "start_range": "10-11-2025",
+        "end_range": "16-11-2025",
+        "previous_activity_week": "1",
+        "current_activity_week": "2",
+        "activities": []
+      },
+      {
+        "start_range": "17-11-2025",
+        "end_range": "23-11-2025",
+        "previous_activity_week": "2",
+        "current_activity_week": "3",
+        "activities": []
+      },
+      {
+        "start_range": "24-11-2025",
+        "end_range": "30-11-2025",
+        "previous_activity_week": "3",
+        "current_activity_week": "4",
+        "activities": []
+      },
+      {
+        "start_range": "01-12-2025",
+        "end_range": "07-12-2025",
+        "previous_activity_week": "4",
+        "current_activity_week": "5",
+        "activities": []
+      },
+      {
+        "start_range": "08-12-2025",
+        "end_range": "14-12-2025",
+        "previous_activity_week": "5",
+        "current_activity_week": "6",
+        "activities": []
+      },
+      {
+        "start_range": "15-12-2025",
+        "end_range": "21-12-2025",
+        "previous_activity_week": "6",
+        "current_activity_week": "7",
+        "activities": []
+      },
+      {
+        "start_range": "22-12-2025",
+        "end_range": "28-12-2025",
+        "previous_activity_week": "7",
+        "current_activity_week": "8",
+        "activities": []
+      },
+      {
+        "start_range": "29-12-2025",
+        "end_range": "04-01-2026",
+        "previous_activity_week": "8",
+        "current_activity_week": "9",
+        "activities": []
+      },
+      {
+        "start_range": "05-01-2026",
+        "end_range": "11-01-2026",
+        "previous_activity_week": "9",
+        "current_activity_week": "10",
+        "activities": []
+      },
+      {
+        "start_range": "12-01-2026",
+        "end_range": "18-01-2026",
+        "previous_activity_week": "10",
+        "current_activity_week": "11",
+        "activities": []
+      }
+    ],
+    "client_representatives": []
+  },
+  {
+    "client_name": "Check Myob",
+    "usage": [
+      {
+        "start_range": "27-10-2025",
+        "end_range": "02-11-2025",
+        "previous_activity_week": "",
+        "current_activity_week": "0",
+        "activities": []
+      },
+      {
+        "start_range": "03-11-2025",
+        "end_range": "09-11-2025",
+        "previous_activity_week": "0",
+        "current_activity_week": "1",
+        "activities": []
+      },
+      {
+        "start_range": "10-11-2025",
+        "end_range": "16-11-2025",
+        "previous_activity_week": "1",
+        "current_activity_week": "2",
+        "activities": []
+      },
+      {
+        "start_range": "17-11-2025",
+        "end_range": "23-11-2025",
+        "previous_activity_week": "2",
+        "current_activity_week": "3",
+        "activities": []
+      },
+      {
+        "start_range": "24-11-2025",
+        "end_range": "30-11-2025",
+        "previous_activity_week": "3",
+        "current_activity_week": "4",
+        "activities": []
+      },
+      {
+        "start_range": "01-12-2025",
+        "end_range": "07-12-2025",
+        "previous_activity_week": "4",
+        "current_activity_week": "5",
+        "activities": []
+      },
+      {
+        "start_range": "08-12-2025",
+        "end_range": "14-12-2025",
+        "previous_activity_week": "5",
+        "current_activity_week": "6",
+        "activities": []
+      },
+      {
+        "start_range": "15-12-2025",
+        "end_range": "21-12-2025",
+        "previous_activity_week": "6",
+        "current_activity_week": "7",
+        "activities": []
+      },
+      {
+        "start_range": "22-12-2025",
+        "end_range": "28-12-2025",
+        "previous_activity_week": "7",
+        "current_activity_week": "8",
+        "activities": []
+      },
+      {
+        "start_range": "29-12-2025",
+        "end_range": "04-01-2026",
+        "previous_activity_week": "8",
+        "current_activity_week": "9",
+        "activities": []
+      },
+      {
+        "start_range": "05-01-2026",
+        "end_range": "11-01-2026",
+        "previous_activity_week": "9",
+        "current_activity_week": "10",
+        "activities": []
+      },
+      {
+        "start_range": "12-01-2026",
+        "end_range": "18-01-2026",
+        "previous_activity_week": "10",
+        "current_activity_week": "11",
+        "activities": [
+          {
+            "name": "Timesheets",
+            "count": 1
+          },
+          {
+            "name": "Projects",
+            "count": 1
+          }
+        ]
+      }
+    ],
+    "client_representatives": []
+  },
+  {
+    "client_name": "Check Xero",
+    "usage": [
+      {
+        "start_range": "27-10-2025",
+        "end_range": "02-11-2025",
+        "previous_activity_week": "",
+        "current_activity_week": "0",
+        "activities": []
+      },
+      {
+        "start_range": "03-11-2025",
+        "end_range": "09-11-2025",
+        "previous_activity_week": "0",
+        "current_activity_week": "1",
+        "activities": []
+      },
+      {
+        "start_range": "10-11-2025",
+        "end_range": "16-11-2025",
+        "previous_activity_week": "1",
+        "current_activity_week": "2",
+        "activities": []
+      },
+      {
+        "start_range": "17-11-2025",
+        "end_range": "23-11-2025",
+        "previous_activity_week": "2",
+        "current_activity_week": "3",
+        "activities": []
+      },
+      {
+        "start_range": "24-11-2025",
+        "end_range": "30-11-2025",
+        "previous_activity_week": "3",
+        "current_activity_week": "4",
+        "activities": []
+      },
+      {
+        "start_range": "01-12-2025",
+        "end_range": "07-12-2025",
+        "previous_activity_week": "4",
+        "current_activity_week": "5",
+        "activities": []
+      },
+      {
+        "start_range": "08-12-2025",
+        "end_range": "14-12-2025",
+        "previous_activity_week": "5",
+        "current_activity_week": "6",
+        "activities": []
+      },
+      {
+        "start_range": "15-12-2025",
+        "end_range": "21-12-2025",
+        "previous_activity_week": "6",
+        "current_activity_week": "7",
+        "activities": []
+      },
+      {
+        "start_range": "22-12-2025",
+        "end_range": "28-12-2025",
+        "previous_activity_week": "7",
+        "current_activity_week": "8",
+        "activities": []
+      },
+      {
+        "start_range": "29-12-2025",
+        "end_range": "04-01-2026",
+        "previous_activity_week": "8",
+        "current_activity_week": "9",
+        "activities": []
+      },
+      {
+        "start_range": "05-01-2026",
+        "end_range": "11-01-2026",
+        "previous_activity_week": "9",
+        "current_activity_week": "10",
+        "activities": []
+      },
+      {
+        "start_range": "12-01-2026",
+        "end_range": "18-01-2026",
+        "previous_activity_week": "10",
+        "current_activity_week": "11",
+        "activities": []
+      }
+    ],
+    "client_representatives": []
+  },
+  {
+    "client_name": "Construction KaT",
+    "usage": [
+      {
+        "start_range": "27-10-2025",
+        "end_range": "02-11-2025",
+        "previous_activity_week": "",
+        "current_activity_week": "0",
+        "activities": [
+          {
+            "name": "Timesheets",
+            "count": 15
+          },
+          {
+            "name": "Projects",
+            "count": 1
+          },
+          {
+            "name": "Claims",
+            "count": 12
+          },
+          {
+            "name": "Tasks",
+            "count": 3
+          },
+          {
+            "name": "Variations",
+            "count": 1
+          },
+          {
+            "name": "Purchase Orders",
+            "count": 1
+          },
+          {
+            "name": "Delivery Dockets",
+            "count": 1
+          },
+          {
+            "name": "Daywork Dockets",
+            "count": 3
+          },
+          {
+            "name": "Custom Forms",
+            "count": 42
+          },
+          {
+            "name": "Cost Tracking",
+            "count": 1
+          },
+          {
+            "name": "Reports",
+            "count": 1
+          },
+          {
+            "name": "Bills",
+            "count": 2
+          },
+          {
+            "name": "Leave Management",
+            "count": 1
+          },
+          {
+            "name": "Scheduling",
+            "count": 45
+          }
+        ]
+      },
+      {
+        "start_range": "03-11-2025",
+        "end_range": "09-11-2025",
+        "previous_activity_week": "0",
+        "current_activity_week": "1",
+        "activities": [
+          {
+            "name": "Timesheets",
+            "count": 2
+          },
+          {
+            "name": "Claims",
+            "count": 8
+          },
+          {
+            "name": "Tasks",
+            "count": 4
+          },
+          {
+            "name": "Variations",
+            "count": 1
+          },
+          {
+            "name": "Daywork Dockets",
+            "count": 2
+          },
+          {
+            "name": "Cost Tracking",
+            "count": 2
+          },
+          {
+            "name": "Bills",
+            "count": 3
+          },
+          {
+            "name": "Scheduling",
+            "count": 56
+          }
+        ]
+      },
+      {
+        "start_range": "10-11-2025",
+        "end_range": "16-11-2025",
+        "previous_activity_week": "1",
+        "current_activity_week": "2",
+        "activities": [
+          {
+            "name": "Timesheets",
+            "count": 3
+          },
+          {
+            "name": "Tasks",
+            "count": 1
+          },
+          {
+            "name": "Variations",
+            "count": 1
+          },
+          {
+            "name": "Purchase Orders",
+            "count": 3
+          },
+          {
+            "name": "Delivery Dockets",
+            "count": 2
+          },
+          {
+            "name": "Daywork Dockets",
+            "count": 4
+          },
+          {
+            "name": "Custom Forms",
+            "count": 3
+          },
+          {
+            "name": "Cost Tracking",
+            "count": 7
+          },
+          {
+            "name": "Reports",
+            "count": 1
+          },
+          {
+            "name": "Bills",
+            "count": 1
+          },
+          {
+            "name": "Scheduling",
+            "count": 30
+          }
+        ]
+      },
+      {
+        "start_range": "17-11-2025",
+        "end_range": "23-11-2025",
+        "previous_activity_week": "2",
+        "current_activity_week": "3",
+        "activities": [
+          {
+            "name": "Timesheets",
+            "count": 1
+          },
+          {
+            "name": "Custom Forms",
+            "count": 3
+          },
+          {
+            "name": "Bills",
+            "count": 1
+          },
+          {
+            "name": "Leave Management",
+            "count": 3
+          },
+          {
+            "name": "Scheduling",
+            "count": 23
+          },
+          {
+            "name": "Suppliers",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "start_range": "24-11-2025",
+        "end_range": "30-11-2025",
+        "previous_activity_week": "3",
+        "current_activity_week": "4",
+        "activities": [
+          {
+            "name": "Timesheets",
+            "count": 3
+          },
+          {
+            "name": "Claims",
+            "count": 5
+          },
+          {
+            "name": "Tasks",
+            "count": 1
+          },
+          {
+            "name": "Purchase Orders",
+            "count": 3
+          },
+          {
+            "name": "Delivery Dockets",
+            "count": 4
+          },
+          {
+            "name": "Bills",
+            "count": 11
+          },
+          {
+            "name": "Leave Management",
+            "count": 6
+          },
+          {
+            "name": "Scheduling",
+            "count": 19
+          }
+        ]
+      },
+      {
+        "start_range": "01-12-2025",
+        "end_range": "07-12-2025",
+        "previous_activity_week": "4",
+        "current_activity_week": "5",
+        "activities": [
+          {
+            "name": "Scheduling",
+            "count": 12
+          },
+          {
+            "name": "Suppliers",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "start_range": "08-12-2025",
+        "end_range": "14-12-2025",
+        "previous_activity_week": "5",
+        "current_activity_week": "6",
+        "activities": [
+          {
+            "name": "Purchase Orders",
+            "count": 1
+          },
+          {
+            "name": "Bills",
+            "count": 3
+          },
+          {
+            "name": "Scheduling",
+            "count": 21
+          },
+          {
+            "name": "Suppliers",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "start_range": "15-12-2025",
+        "end_range": "21-12-2025",
+        "previous_activity_week": "6",
+        "current_activity_week": "7",
+        "activities": [
+          {
+            "name": "Purchase Orders",
+            "count": 4
+          },
+          {
+            "name": "Cost Tracking",
+            "count": 10
+          },
+          {
+            "name": "Bills",
+            "count": 10
+          },
+          {
+            "name": "Scheduling",
+            "count": 4
+          },
+          {
+            "name": "Suppliers",
+            "count": 10
+          }
+        ]
+      },
+      {
+        "start_range": "22-12-2025",
+        "end_range": "28-12-2025",
+        "previous_activity_week": "7",
+        "current_activity_week": "8",
+        "activities": [
+          {
+            "name": "Daywork Dockets",
+            "count": 6
+          },
+          {
+            "name": "Bills",
+            "count": 1
+          },
+          {
+            "name": "Suppliers",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "start_range": "29-12-2025",
+        "end_range": "04-01-2026",
+        "previous_activity_week": "8",
+        "current_activity_week": "9",
+        "activities": [
+          {
+            "name": "Timesheets",
+            "count": 11
+          },
+          {
+            "name": "Tasks",
+            "count": 2
+          },
+          {
+            "name": "Purchase Orders",
+            "count": 1
+          },
+          {
+            "name": "Daywork Dockets",
+            "count": 2
+          },
+          {
+            "name": "Custom Forms",
+            "count": 20
+          },
+          {
+            "name": "Cost Tracking",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "start_range": "05-01-2026",
+        "end_range": "11-01-2026",
+        "previous_activity_week": "9",
+        "current_activity_week": "10",
+        "activities": [
+          {
+            "name": "Timesheets",
+            "count": 1
+          },
+          {
+            "name": "Tasks",
+            "count": 1
+          },
+          {
+            "name": "Cost Tracking",
+            "count": 5
+          }
+        ]
+      },
+      {
+        "start_range": "12-01-2026",
+        "end_range": "18-01-2026",
+        "previous_activity_week": "10",
+        "current_activity_week": "11",
+        "activities": [
+          {
+            "name": "Timesheets",
+            "count": 4
+          },
+          {
+            "name": "Claims",
+            "count": 2
+          },
+          {
+            "name": "Tasks",
+            "count": 2
+          },
+          {
+            "name": "Variations",
+            "count": 1
+          },
+          {
+            "name": "Delivery Dockets",
+            "count": 1
+          },
+          {
+            "name": "Daywork Dockets",
+            "count": 1
+          },
+          {
+            "name": "Custom Forms",
+            "count": 2
+          },
+          {
+            "name": "Cost Tracking",
+            "count": 1
+          },
+          {
+            "name": "Reports",
+            "count": 1
+          },
+          {
+            "name": "Bills",
+            "count": 15
+          },
+          {
+            "name": "Suppliers",
+            "count": 4
+          }
+        ]
+      }
+    ],
+    "client_representatives": [
+      {
+        "full_name": "Anil Shrestha",
+        "email": "anil.shrestha@varicon.com.au"
+      }
+    ]
+  },
+  {
+    "client_name": "Copilot Team",
+    "usage": [
+      {
+        "start_range": "27-10-2025",
+        "end_range": "02-11-2025",
+        "previous_activity_week": "",
+        "current_activity_week": "0",
+        "activities": []
+      },
+      {
+        "start_range": "03-11-2025",
+        "end_range": "09-11-2025",
+        "previous_activity_week": "0",
+        "current_activity_week": "1",
+        "activities": []
+      },
+      {
+        "start_range": "10-11-2025",
+        "end_range": "16-11-2025",
+        "previous_activity_week": "1",
+        "current_activity_week": "2",
+        "activities": []
+      },
+      {
+        "start_range": "17-11-2025",
+        "end_range": "23-11-2025",
+        "previous_activity_week": "2",
+        "current_activity_week": "3",
+        "activities": []
+      },
+      {
+        "start_range": "24-11-2025",
+        "end_range": "30-11-2025",
+        "previous_activity_week": "3",
+        "current_activity_week": "4",
+        "activities": []
+      },
+      {
+        "start_range": "01-12-2025",
+        "end_range": "07-12-2025",
+        "previous_activity_week": "4",
+        "current_activity_week": "5",
+        "activities": []
+      },
+      {
+        "start_range": "08-12-2025",
+        "end_range": "14-12-2025",
+        "previous_activity_week": "5",
+        "current_activity_week": "6",
+        "activities": []
+      },
+      {
+        "start_range": "15-12-2025",
+        "end_range": "21-12-2025",
+        "previous_activity_week": "6",
+        "current_activity_week": "7",
+        "activities": []
+      },
+      {
+        "start_range": "22-12-2025",
+        "end_range": "28-12-2025",
+        "previous_activity_week": "7",
+        "current_activity_week": "8",
+        "activities": []
+      },
+      {
+        "start_range": "29-12-2025",
+        "end_range": "04-01-2026",
+        "previous_activity_week": "8",
+        "current_activity_week": "9",
+        "activities": []
+      },
+      {
+        "start_range": "05-01-2026",
+        "end_range": "11-01-2026",
+        "previous_activity_week": "9",
+        "current_activity_week": "10",
+        "activities": []
+      },
+      {
+        "start_range": "12-01-2026",
+        "end_range": "18-01-2026",
+        "previous_activity_week": "10",
+        "current_activity_week": "11",
+        "activities": []
+      }
+    ],
+    "client_representatives": []
+  },
+  {
+    "client_name": "CS Onboarding Email",
+    "usage": [
+      {
+        "start_range": "27-10-2025",
+        "end_range": "02-11-2025",
+        "previous_activity_week": "",
+        "current_activity_week": "0",
+        "activities": []
+      },
+      {
+        "start_range": "03-11-2025",
+        "end_range": "09-11-2025",
+        "previous_activity_week": "0",
+        "current_activity_week": "1",
+        "activities": []
+      },
+      {
+        "start_range": "10-11-2025",
+        "end_range": "16-11-2025",
+        "previous_activity_week": "1",
+        "current_activity_week": "2",
+        "activities": []
+      },
+      {
+        "start_range": "17-11-2025",
+        "end_range": "23-11-2025",
+        "previous_activity_week": "2",
+        "current_activity_week": "3",
+        "activities": []
+      },
+      {
+        "start_range": "24-11-2025",
+        "end_range": "30-11-2025",
+        "previous_activity_week": "3",
+        "current_activity_week": "4",
+        "activities": []
+      },
+      {
+        "start_range": "01-12-2025",
+        "end_range": "07-12-2025",
+        "previous_activity_week": "4",
+        "current_activity_week": "5",
+        "activities": []
+      },
+      {
+        "start_range": "08-12-2025",
+        "end_range": "14-12-2025",
+        "previous_activity_week": "5",
+        "current_activity_week": "6",
+        "activities": []
+      },
+      {
+        "start_range": "15-12-2025",
+        "end_range": "21-12-2025",
+        "previous_activity_week": "6",
+        "current_activity_week": "7",
+        "activities": []
+      },
+      {
+        "start_range": "22-12-2025",
+        "end_range": "28-12-2025",
+        "previous_activity_week": "7",
+        "current_activity_week": "8",
+        "activities": []
+      },
+      {
+        "start_range": "29-12-2025",
+        "end_range": "04-01-2026",
+        "previous_activity_week": "8",
+        "current_activity_week": "9",
+        "activities": []
+      },
+      {
+        "start_range": "05-01-2026",
+        "end_range": "11-01-2026",
+        "previous_activity_week": "9",
+        "current_activity_week": "10",
+        "activities": []
+      },
+      {
+        "start_range": "12-01-2026",
+        "end_range": "18-01-2026",
+        "previous_activity_week": "10",
+        "current_activity_week": "11",
+        "activities": []
+      }
+    ],
+    "client_representatives": []
+  },
+  {
+    "client_name": "Development",
+    "usage": [
+      {
+        "start_range": "27-10-2025",
+        "end_range": "02-11-2025",
+        "previous_activity_week": "",
+        "current_activity_week": "0",
+        "activities": []
+      },
+      {
+        "start_range": "03-11-2025",
+        "end_range": "09-11-2025",
+        "previous_activity_week": "0",
+        "current_activity_week": "1",
+        "activities": []
+      },
+      {
+        "start_range": "10-11-2025",
+        "end_range": "16-11-2025",
+        "previous_activity_week": "1",
+        "current_activity_week": "2",
+        "activities": [
+          {
+            "name": "Timesheets",
+            "count": 6
+          },
+          {
+            "name": "Tasks",
+            "count": 2
+          },
+          {
+            "name": "Delivery Dockets",
+            "count": 1
+          },
+          {
+            "name": "Cost Tracking",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "start_range": "17-11-2025",
+        "end_range": "23-11-2025",
+        "previous_activity_week": "2",
+        "current_activity_week": "3",
+        "activities": []
+      },
+      {
+        "start_range": "24-11-2025",
+        "end_range": "30-11-2025",
+        "previous_activity_week": "3",
+        "current_activity_week": "4",
+        "activities": [
+          {
+            "name": "Variations",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "start_range": "01-12-2025",
+        "end_range": "07-12-2025",
+        "previous_activity_week": "4",
+        "current_activity_week": "5",
+        "activities": []
+      },
+      {
+        "start_range": "08-12-2025",
+        "end_range": "14-12-2025",
+        "previous_activity_week": "5",
+        "current_activity_week": "6",
+        "activities": []
+      },
+      {
+        "start_range": "15-12-2025",
+        "end_range": "21-12-2025",
+        "previous_activity_week": "6",
+        "current_activity_week": "7",
+        "activities": []
+      },
+      {
+        "start_range": "22-12-2025",
+        "end_range": "28-12-2025",
+        "previous_activity_week": "7",
+        "current_activity_week": "8",
+        "activities": []
+      },
+      {
+        "start_range": "29-12-2025",
+        "end_range": "04-01-2026",
+        "previous_activity_week": "8",
+        "current_activity_week": "9",
+        "activities": []
+      },
+      {
+        "start_range": "05-01-2026",
+        "end_range": "11-01-2026",
+        "previous_activity_week": "9",
+        "current_activity_week": "10",
+        "activities": []
+      },
+      {
+        "start_range": "12-01-2026",
+        "end_range": "18-01-2026",
+        "previous_activity_week": "10",
+        "current_activity_week": "11",
+        "activities": [
+          {
+            "name": "Timesheets",
+            "count": 2
+          },
+          {
+            "name": "Projects",
+            "count": 1
+          },
+          {
+            "name": "Tasks",
+            "count": 1
+          },
+          {
+            "name": "Variations",
+            "count": 2
+          },
+          {
+            "name": "Delivery Dockets",
+            "count": 1
+          },
+          {
+            "name": "Daywork Dockets",
+            "count": 2
+          }
+        ]
+      }
+    ],
+    "client_representatives": []
+  },
+  {
+    "client_name": "From Dev",
+    "usage": [
+      {
+        "start_range": "27-10-2025",
+        "end_range": "02-11-2025",
+        "previous_activity_week": "",
+        "current_activity_week": "0",
+        "activities": []
+      },
+      {
+        "start_range": "03-11-2025",
+        "end_range": "09-11-2025",
+        "previous_activity_week": "0",
+        "current_activity_week": "1",
+        "activities": []
+      },
+      {
+        "start_range": "10-11-2025",
+        "end_range": "16-11-2025",
+        "previous_activity_week": "1",
+        "current_activity_week": "2",
+        "activities": []
+      },
+      {
+        "start_range": "17-11-2025",
+        "end_range": "23-11-2025",
+        "previous_activity_week": "2",
+        "current_activity_week": "3",
+        "activities": []
+      },
+      {
+        "start_range": "24-11-2025",
+        "end_range": "30-11-2025",
+        "previous_activity_week": "3",
+        "current_activity_week": "4",
+        "activities": []
+      },
+      {
+        "start_range": "01-12-2025",
+        "end_range": "07-12-2025",
+        "previous_activity_week": "4",
+        "current_activity_week": "5",
+        "activities": []
+      },
+      {
+        "start_range": "08-12-2025",
+        "end_range": "14-12-2025",
+        "previous_activity_week": "5",
+        "current_activity_week": "6",
+        "activities": []
+      },
+      {
+        "start_range": "15-12-2025",
+        "end_range": "21-12-2025",
+        "previous_activity_week": "6",
+        "current_activity_week": "7",
+        "activities": []
+      },
+      {
+        "start_range": "22-12-2025",
+        "end_range": "28-12-2025",
+        "previous_activity_week": "7",
+        "current_activity_week": "8",
+        "activities": []
+      },
+      {
+        "start_range": "29-12-2025",
+        "end_range": "04-01-2026",
+        "previous_activity_week": "8",
+        "current_activity_week": "9",
+        "activities": []
+      },
+      {
+        "start_range": "05-01-2026",
+        "end_range": "11-01-2026",
+        "previous_activity_week": "9",
+        "current_activity_week": "10",
+        "activities": []
+      },
+      {
+        "start_range": "12-01-2026",
+        "end_range": "18-01-2026",
+        "previous_activity_week": "10",
+        "current_activity_week": "11",
+        "activities": []
+      }
+    ],
+    "client_representatives": []
+  },
+  {
+    "client_name": "Nam Test",
+    "usage": [
+      {
+        "start_range": "27-10-2025",
+        "end_range": "02-11-2025",
+        "previous_activity_week": "",
+        "current_activity_week": "0",
+        "activities": []
+      },
+      {
+        "start_range": "03-11-2025",
+        "end_range": "09-11-2025",
+        "previous_activity_week": "0",
+        "current_activity_week": "1",
+        "activities": []
+      },
+      {
+        "start_range": "10-11-2025",
+        "end_range": "16-11-2025",
+        "previous_activity_week": "1",
+        "current_activity_week": "2",
+        "activities": []
+      },
+      {
+        "start_range": "17-11-2025",
+        "end_range": "23-11-2025",
+        "previous_activity_week": "2",
+        "current_activity_week": "3",
+        "activities": [
+          {
+            "name": "Leave Management",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "start_range": "24-11-2025",
+        "end_range": "30-11-2025",
+        "previous_activity_week": "3",
+        "current_activity_week": "4",
+        "activities": []
+      },
+      {
+        "start_range": "01-12-2025",
+        "end_range": "07-12-2025",
+        "previous_activity_week": "4",
+        "current_activity_week": "5",
+        "activities": []
+      },
+      {
+        "start_range": "08-12-2025",
+        "end_range": "14-12-2025",
+        "previous_activity_week": "5",
+        "current_activity_week": "6",
+        "activities": []
+      },
+      {
+        "start_range": "15-12-2025",
+        "end_range": "21-12-2025",
+        "previous_activity_week": "6",
+        "current_activity_week": "7",
+        "activities": []
+      },
+      {
+        "start_range": "22-12-2025",
+        "end_range": "28-12-2025",
+        "previous_activity_week": "7",
+        "current_activity_week": "8",
+        "activities": []
+      },
+      {
+        "start_range": "29-12-2025",
+        "end_range": "04-01-2026",
+        "previous_activity_week": "8",
+        "current_activity_week": "9",
+        "activities": []
+      },
+      {
+        "start_range": "05-01-2026",
+        "end_range": "11-01-2026",
+        "previous_activity_week": "9",
+        "current_activity_week": "10",
+        "activities": []
+      },
+      {
+        "start_range": "12-01-2026",
+        "end_range": "18-01-2026",
+        "previous_activity_week": "10",
+        "current_activity_week": "11",
+        "activities": []
+      }
+    ],
+    "client_representatives": []
+  },
+  {
+    "client_name": "Report Template",
+    "usage": [
+      {
+        "start_range": "27-10-2025",
+        "end_range": "02-11-2025",
+        "previous_activity_week": "",
+        "current_activity_week": "0",
+        "activities": []
+      },
+      {
+        "start_range": "03-11-2025",
+        "end_range": "09-11-2025",
+        "previous_activity_week": "0",
+        "current_activity_week": "1",
+        "activities": []
+      },
+      {
+        "start_range": "10-11-2025",
+        "end_range": "16-11-2025",
+        "previous_activity_week": "1",
+        "current_activity_week": "2",
+        "activities": []
+      },
+      {
+        "start_range": "17-11-2025",
+        "end_range": "23-11-2025",
+        "previous_activity_week": "2",
+        "current_activity_week": "3",
+        "activities": []
+      },
+      {
+        "start_range": "24-11-2025",
+        "end_range": "30-11-2025",
+        "previous_activity_week": "3",
+        "current_activity_week": "4",
+        "activities": []
+      },
+      {
+        "start_range": "01-12-2025",
+        "end_range": "07-12-2025",
+        "previous_activity_week": "4",
+        "current_activity_week": "5",
+        "activities": []
+      },
+      {
+        "start_range": "08-12-2025",
+        "end_range": "14-12-2025",
+        "previous_activity_week": "5",
+        "current_activity_week": "6",
+        "activities": []
+      },
+      {
+        "start_range": "15-12-2025",
+        "end_range": "21-12-2025",
+        "previous_activity_week": "6",
+        "current_activity_week": "7",
+        "activities": []
+      },
+      {
+        "start_range": "22-12-2025",
+        "end_range": "28-12-2025",
+        "previous_activity_week": "7",
+        "current_activity_week": "8",
+        "activities": []
+      },
+      {
+        "start_range": "29-12-2025",
+        "end_range": "04-01-2026",
+        "previous_activity_week": "8",
+        "current_activity_week": "9",
+        "activities": []
+      },
+      {
+        "start_range": "05-01-2026",
+        "end_range": "11-01-2026",
+        "previous_activity_week": "9",
+        "current_activity_week": "10",
+        "activities": []
+      },
+      {
+        "start_range": "12-01-2026",
+        "end_range": "18-01-2026",
+        "previous_activity_week": "10",
+        "current_activity_week": "11",
+        "activities": []
+      }
+    ],
+    "client_representatives": []
+  },
+  {
+    "client_name": "Sagar's Tenant",
+    "usage": [
+      {
+        "start_range": "27-10-2025",
+        "end_range": "02-11-2025",
+        "previous_activity_week": "",
+        "current_activity_week": "0",
+        "activities": [
+          {
+            "name": "Projects",
+            "count": 1
+          },
+          {
+            "name": "Tasks",
+            "count": 14
+          },
+          {
+            "name": "Reports",
+            "count": 3
+          },
+          {
+            "name": "Suppliers",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "start_range": "03-11-2025",
+        "end_range": "09-11-2025",
+        "previous_activity_week": "0",
+        "current_activity_week": "1",
+        "activities": []
+      },
+      {
+        "start_range": "10-11-2025",
+        "end_range": "16-11-2025",
+        "previous_activity_week": "1",
+        "current_activity_week": "2",
+        "activities": []
+      },
+      {
+        "start_range": "17-11-2025",
+        "end_range": "23-11-2025",
+        "previous_activity_week": "2",
+        "current_activity_week": "3",
+        "activities": []
+      },
+      {
+        "start_range": "24-11-2025",
+        "end_range": "30-11-2025",
+        "previous_activity_week": "3",
+        "current_activity_week": "4",
+        "activities": []
+      },
+      {
+        "start_range": "01-12-2025",
+        "end_range": "07-12-2025",
+        "previous_activity_week": "4",
+        "current_activity_week": "5",
+        "activities": []
+      },
+      {
+        "start_range": "08-12-2025",
+        "end_range": "14-12-2025",
+        "previous_activity_week": "5",
+        "current_activity_week": "6",
+        "activities": []
+      },
+      {
+        "start_range": "15-12-2025",
+        "end_range": "21-12-2025",
+        "previous_activity_week": "6",
+        "current_activity_week": "7",
+        "activities": []
+      },
+      {
+        "start_range": "22-12-2025",
+        "end_range": "28-12-2025",
+        "previous_activity_week": "7",
+        "current_activity_week": "8",
+        "activities": []
+      },
+      {
+        "start_range": "29-12-2025",
+        "end_range": "04-01-2026",
+        "previous_activity_week": "8",
+        "current_activity_week": "9",
+        "activities": []
+      },
+      {
+        "start_range": "05-01-2026",
+        "end_range": "11-01-2026",
+        "previous_activity_week": "9",
+        "current_activity_week": "10",
+        "activities": []
+      },
+      {
+        "start_range": "12-01-2026",
+        "end_range": "18-01-2026",
+        "previous_activity_week": "10",
+        "current_activity_week": "11",
+        "activities": []
+      }
+    ],
+    "client_representatives": []
+  },
+  {
+    "client_name": "SAGAR TESTTENANT",
+    "usage": [
+      {
+        "start_range": "27-10-2025",
+        "end_range": "02-11-2025",
+        "previous_activity_week": "",
+        "current_activity_week": "0",
+        "activities": []
+      },
+      {
+        "start_range": "03-11-2025",
+        "end_range": "09-11-2025",
+        "previous_activity_week": "0",
+        "current_activity_week": "1",
+        "activities": []
+      },
+      {
+        "start_range": "10-11-2025",
+        "end_range": "16-11-2025",
+        "previous_activity_week": "1",
+        "current_activity_week": "2",
+        "activities": []
+      },
+      {
+        "start_range": "17-11-2025",
+        "end_range": "23-11-2025",
+        "previous_activity_week": "2",
+        "current_activity_week": "3",
+        "activities": []
+      },
+      {
+        "start_range": "24-11-2025",
+        "end_range": "30-11-2025",
+        "previous_activity_week": "3",
+        "current_activity_week": "4",
+        "activities": []
+      },
+      {
+        "start_range": "01-12-2025",
+        "end_range": "07-12-2025",
+        "previous_activity_week": "4",
+        "current_activity_week": "5",
+        "activities": []
+      },
+      {
+        "start_range": "08-12-2025",
+        "end_range": "14-12-2025",
+        "previous_activity_week": "5",
+        "current_activity_week": "6",
+        "activities": []
+      },
+      {
+        "start_range": "15-12-2025",
+        "end_range": "21-12-2025",
+        "previous_activity_week": "6",
+        "current_activity_week": "7",
+        "activities": []
+      },
+      {
+        "start_range": "22-12-2025",
+        "end_range": "28-12-2025",
+        "previous_activity_week": "7",
+        "current_activity_week": "8",
+        "activities": []
+      },
+      {
+        "start_range": "29-12-2025",
+        "end_range": "04-01-2026",
+        "previous_activity_week": "8",
+        "current_activity_week": "9",
+        "activities": [
+          {
+            "name": "Projects",
+            "count": 1
+          },
+          {
+            "name": "Tasks",
+            "count": 14
+          },
+          {
+            "name": "Reports",
+            "count": 3
+          },
+          {
+            "name": "Suppliers",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "start_range": "05-01-2026",
+        "end_range": "11-01-2026",
+        "previous_activity_week": "9",
+        "current_activity_week": "10",
+        "activities": []
+      },
+      {
+        "start_range": "12-01-2026",
+        "end_range": "18-01-2026",
+        "previous_activity_week": "10",
+        "current_activity_week": "11",
+        "activities": []
+      }
+    ],
+    "client_representatives": []
+  },
+  {
+    "client_name": "Scheduled Ten",
+    "usage": [
+      {
+        "start_range": "27-10-2025",
+        "end_range": "02-11-2025",
+        "previous_activity_week": "",
+        "current_activity_week": "0",
+        "activities": []
+      },
+      {
+        "start_range": "03-11-2025",
+        "end_range": "09-11-2025",
+        "previous_activity_week": "0",
+        "current_activity_week": "1",
+        "activities": []
+      },
+      {
+        "start_range": "10-11-2025",
+        "end_range": "16-11-2025",
+        "previous_activity_week": "1",
+        "current_activity_week": "2",
+        "activities": []
+      },
+      {
+        "start_range": "17-11-2025",
+        "end_range": "23-11-2025",
+        "previous_activity_week": "2",
+        "current_activity_week": "3",
+        "activities": [
+          {
+            "name": "Scheduling",
+            "count": 5
+          }
+        ]
+      },
+      {
+        "start_range": "24-11-2025",
+        "end_range": "30-11-2025",
+        "previous_activity_week": "3",
+        "current_activity_week": "4",
+        "activities": []
+      },
+      {
+        "start_range": "01-12-2025",
+        "end_range": "07-12-2025",
+        "previous_activity_week": "4",
+        "current_activity_week": "5",
+        "activities": []
+      },
+      {
+        "start_range": "08-12-2025",
+        "end_range": "14-12-2025",
+        "previous_activity_week": "5",
+        "current_activity_week": "6",
+        "activities": []
+      },
+      {
+        "start_range": "15-12-2025",
+        "end_range": "21-12-2025",
+        "previous_activity_week": "6",
+        "current_activity_week": "7",
+        "activities": []
+      },
+      {
+        "start_range": "22-12-2025",
+        "end_range": "28-12-2025",
+        "previous_activity_week": "7",
+        "current_activity_week": "8",
+        "activities": []
+      },
+      {
+        "start_range": "29-12-2025",
+        "end_range": "04-01-2026",
+        "previous_activity_week": "8",
+        "current_activity_week": "9",
+        "activities": []
+      },
+      {
+        "start_range": "05-01-2026",
+        "end_range": "11-01-2026",
+        "previous_activity_week": "9",
+        "current_activity_week": "10",
+        "activities": []
+      },
+      {
+        "start_range": "12-01-2026",
+        "end_range": "18-01-2026",
+        "previous_activity_week": "10",
+        "current_activity_week": "11",
+        "activities": []
+      }
+    ],
+    "client_representatives": []
+  },
+  {
+    "client_name": "Show NPS",
+    "usage": [
+      {
+        "start_range": "27-10-2025",
+        "end_range": "02-11-2025",
+        "previous_activity_week": "",
+        "current_activity_week": "0",
+        "activities": []
+      },
+      {
+        "start_range": "03-11-2025",
+        "end_range": "09-11-2025",
+        "previous_activity_week": "0",
+        "current_activity_week": "1",
+        "activities": []
+      },
+      {
+        "start_range": "10-11-2025",
+        "end_range": "16-11-2025",
+        "previous_activity_week": "1",
+        "current_activity_week": "2",
+        "activities": []
+      },
+      {
+        "start_range": "17-11-2025",
+        "end_range": "23-11-2025",
+        "previous_activity_week": "2",
+        "current_activity_week": "3",
+        "activities": []
+      },
+      {
+        "start_range": "24-11-2025",
+        "end_range": "30-11-2025",
+        "previous_activity_week": "3",
+        "current_activity_week": "4",
+        "activities": []
+      },
+      {
+        "start_range": "01-12-2025",
+        "end_range": "07-12-2025",
+        "previous_activity_week": "4",
+        "current_activity_week": "5",
+        "activities": []
+      },
+      {
+        "start_range": "08-12-2025",
+        "end_range": "14-12-2025",
+        "previous_activity_week": "5",
+        "current_activity_week": "6",
+        "activities": []
+      },
+      {
+        "start_range": "15-12-2025",
+        "end_range": "21-12-2025",
+        "previous_activity_week": "6",
+        "current_activity_week": "7",
+        "activities": []
+      },
+      {
+        "start_range": "22-12-2025",
+        "end_range": "28-12-2025",
+        "previous_activity_week": "7",
+        "current_activity_week": "8",
+        "activities": []
+      },
+      {
+        "start_range": "29-12-2025",
+        "end_range": "04-01-2026",
+        "previous_activity_week": "8",
+        "current_activity_week": "9",
+        "activities": []
+      },
+      {
+        "start_range": "05-01-2026",
+        "end_range": "11-01-2026",
+        "previous_activity_week": "9",
+        "current_activity_week": "10",
+        "activities": []
+      },
+      {
+        "start_range": "12-01-2026",
+        "end_range": "18-01-2026",
+        "previous_activity_week": "10",
+        "current_activity_week": "11",
+        "activities": []
+      }
+    ],
+    "client_representatives": []
+  },
+  {
+    "client_name": "UB Civil ",
+    "usage": [
+      {
+        "start_range": "27-10-2025",
+        "end_range": "02-11-2025",
+        "previous_activity_week": "",
+        "current_activity_week": "0",
+        "activities": [
+          {
+            "name": "Purchase Orders",
+            "count": 1
+          },
+          {
+            "name": "Delivery Dockets",
+            "count": 1
+          },
+          {
+            "name": "Cost Tracking",
+            "count": 3
+          },
+          {
+            "name": "Suppliers",
+            "count": 1
+          },
+          {
+            "name": "Resources",
+            "count": 22
+          }
+        ]
+      },
+      {
+        "start_range": "03-11-2025",
+        "end_range": "09-11-2025",
+        "previous_activity_week": "0",
+        "current_activity_week": "1",
+        "activities": [
+          {
+            "name": "Tasks",
+            "count": 1
+          },
+          {
+            "name": "Variations",
+            "count": 1
+          },
+          {
+            "name": "Reports",
+            "count": 1
+          },
+          {
+            "name": "Resources",
+            "count": 13
+          }
+        ]
+      },
+      {
+        "start_range": "10-11-2025",
+        "end_range": "16-11-2025",
+        "previous_activity_week": "1",
+        "current_activity_week": "2",
+        "activities": [
+          {
+            "name": "Cost Tracking",
+            "count": 1
+          },
+          {
+            "name": "Resources",
+            "count": 4
+          }
+        ]
+      },
+      {
+        "start_range": "17-11-2025",
+        "end_range": "23-11-2025",
+        "previous_activity_week": "2",
+        "current_activity_week": "3",
+        "activities": []
+      },
+      {
+        "start_range": "24-11-2025",
+        "end_range": "30-11-2025",
+        "previous_activity_week": "3",
+        "current_activity_week": "4",
+        "activities": []
+      },
+      {
+        "start_range": "01-12-2025",
+        "end_range": "07-12-2025",
+        "previous_activity_week": "4",
+        "current_activity_week": "5",
+        "activities": []
+      },
+      {
+        "start_range": "08-12-2025",
+        "end_range": "14-12-2025",
+        "previous_activity_week": "5",
+        "current_activity_week": "6",
+        "activities": []
+      },
+      {
+        "start_range": "15-12-2025",
+        "end_range": "21-12-2025",
+        "previous_activity_week": "6",
+        "current_activity_week": "7",
+        "activities": []
+      },
+      {
+        "start_range": "22-12-2025",
+        "end_range": "28-12-2025",
+        "previous_activity_week": "7",
+        "current_activity_week": "8",
+        "activities": [
+          {
+            "name": "Bills",
+            "count": 4
+          }
+        ]
+      },
+      {
+        "start_range": "29-12-2025",
+        "end_range": "04-01-2026",
+        "previous_activity_week": "8",
+        "current_activity_week": "9",
+        "activities": []
+      },
+      {
+        "start_range": "05-01-2026",
+        "end_range": "11-01-2026",
+        "previous_activity_week": "9",
+        "current_activity_week": "10",
+        "activities": []
+      },
+      {
+        "start_range": "12-01-2026",
+        "end_range": "18-01-2026",
+        "previous_activity_week": "10",
+        "current_activity_week": "11",
+        "activities": [
+          {
+            "name": "Timesheets",
+            "count": 1
+          },
+          {
+            "name": "Delivery Dockets",
+            "count": 1
+          },
+          {
+            "name": "Bills",
+            "count": 1
+          }
+        ]
+      }
+    ],
+    "client_representatives": []
+  },
+  {
+    "client_name": "UDIP WHO?",
+    "usage": [
+      {
+        "start_range": "27-10-2025",
+        "end_range": "02-11-2025",
+        "previous_activity_week": "",
+        "current_activity_week": "0",
+        "activities": []
+      },
+      {
+        "start_range": "03-11-2025",
+        "end_range": "09-11-2025",
+        "previous_activity_week": "0",
+        "current_activity_week": "1",
+        "activities": []
+      },
+      {
+        "start_range": "10-11-2025",
+        "end_range": "16-11-2025",
+        "previous_activity_week": "1",
+        "current_activity_week": "2",
+        "activities": []
+      },
+      {
+        "start_range": "17-11-2025",
+        "end_range": "23-11-2025",
+        "previous_activity_week": "2",
+        "current_activity_week": "3",
+        "activities": []
+      },
+      {
+        "start_range": "24-11-2025",
+        "end_range": "30-11-2025",
+        "previous_activity_week": "3",
+        "current_activity_week": "4",
+        "activities": []
+      },
+      {
+        "start_range": "01-12-2025",
+        "end_range": "07-12-2025",
+        "previous_activity_week": "4",
+        "current_activity_week": "5",
+        "activities": []
+      },
+      {
+        "start_range": "08-12-2025",
+        "end_range": "14-12-2025",
+        "previous_activity_week": "5",
+        "current_activity_week": "6",
+        "activities": []
+      },
+      {
+        "start_range": "15-12-2025",
+        "end_range": "21-12-2025",
+        "previous_activity_week": "6",
+        "current_activity_week": "7",
+        "activities": []
+      },
+      {
+        "start_range": "22-12-2025",
+        "end_range": "28-12-2025",
+        "previous_activity_week": "7",
+        "current_activity_week": "8",
+        "activities": []
+      },
+      {
+        "start_range": "29-12-2025",
+        "end_range": "04-01-2026",
+        "previous_activity_week": "8",
+        "current_activity_week": "9",
+        "activities": []
+      },
+      {
+        "start_range": "05-01-2026",
+        "end_range": "11-01-2026",
+        "previous_activity_week": "9",
+        "current_activity_week": "10",
+        "activities": []
+      },
+      {
+        "start_range": "12-01-2026",
+        "end_range": "18-01-2026",
+        "previous_activity_week": "10",
+        "current_activity_week": "11",
+        "activities": []
+      }
+    ],
+    "client_representatives": []
+  },
+  {
+    "client_name": "Varicon Construction",
+    "usage": [
+      {
+        "start_range": "27-10-2025",
+        "end_range": "02-11-2025",
+        "previous_activity_week": "",
+        "current_activity_week": "0",
+        "activities": []
+      },
+      {
+        "start_range": "03-11-2025",
+        "end_range": "09-11-2025",
+        "previous_activity_week": "0",
+        "current_activity_week": "1",
+        "activities": []
+      },
+      {
+        "start_range": "10-11-2025",
+        "end_range": "16-11-2025",
+        "previous_activity_week": "1",
+        "current_activity_week": "2",
+        "activities": []
+      },
+      {
+        "start_range": "17-11-2025",
+        "end_range": "23-11-2025",
+        "previous_activity_week": "2",
+        "current_activity_week": "3",
+        "activities": []
+      },
+      {
+        "start_range": "24-11-2025",
+        "end_range": "30-11-2025",
+        "previous_activity_week": "3",
+        "current_activity_week": "4",
+        "activities": []
+      },
+      {
+        "start_range": "01-12-2025",
+        "end_range": "07-12-2025",
+        "previous_activity_week": "4",
+        "current_activity_week": "5",
+        "activities": []
+      },
+      {
+        "start_range": "08-12-2025",
+        "end_range": "14-12-2025",
+        "previous_activity_week": "5",
+        "current_activity_week": "6",
+        "activities": []
+      },
+      {
+        "start_range": "15-12-2025",
+        "end_range": "21-12-2025",
+        "previous_activity_week": "6",
+        "current_activity_week": "7",
+        "activities": []
+      },
+      {
+        "start_range": "22-12-2025",
+        "end_range": "28-12-2025",
+        "previous_activity_week": "7",
+        "current_activity_week": "8",
+        "activities": []
+      },
+      {
+        "start_range": "29-12-2025",
+        "end_range": "04-01-2026",
+        "previous_activity_week": "8",
+        "current_activity_week": "9",
+        "activities": []
+      },
+      {
+        "start_range": "05-01-2026",
+        "end_range": "11-01-2026",
+        "previous_activity_week": "9",
+        "current_activity_week": "10",
+        "activities": []
+      },
+      {
+        "start_range": "12-01-2026",
+        "end_range": "18-01-2026",
+        "previous_activity_week": "10",
+        "current_activity_week": "11",
+        "activities": []
+      }
+    ],
+    "client_representatives": []
+  },
+  {
+    "client_name": "Varicon Product",
+    "usage": [
+      {
+        "start_range": "27-10-2025",
+        "end_range": "02-11-2025",
+        "previous_activity_week": "",
+        "current_activity_week": "0",
+        "activities": [
+          {
+            "name": "Leave Management",
+            "count": 1
+          },
+          {
+            "name": "Scheduling",
+            "count": 21
+          }
+        ]
+      },
+      {
+        "start_range": "03-11-2025",
+        "end_range": "09-11-2025",
+        "previous_activity_week": "0",
+        "current_activity_week": "1",
+        "activities": [
+          {
+            "name": "Scheduling",
+            "count": 28
+          }
+        ]
+      },
+      {
+        "start_range": "10-11-2025",
+        "end_range": "16-11-2025",
+        "previous_activity_week": "1",
+        "current_activity_week": "2",
+        "activities": [
+          {
+            "name": "Scheduling",
+            "count": 32
+          }
+        ]
+      },
+      {
+        "start_range": "17-11-2025",
+        "end_range": "23-11-2025",
+        "previous_activity_week": "2",
+        "current_activity_week": "3",
+        "activities": [
+          {
+            "name": "Leave Management",
+            "count": 8
+          },
+          {
+            "name": "Scheduling",
+            "count": 13
+          }
+        ]
+      },
+      {
+        "start_range": "24-11-2025",
+        "end_range": "30-11-2025",
+        "previous_activity_week": "3",
+        "current_activity_week": "4",
+        "activities": [
+          {
+            "name": "Scheduling",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "start_range": "01-12-2025",
+        "end_range": "07-12-2025",
+        "previous_activity_week": "4",
+        "current_activity_week": "5",
+        "activities": [
+          {
+            "name": "Scheduling",
+            "count": 7
+          }
+        ]
+      },
+      {
+        "start_range": "08-12-2025",
+        "end_range": "14-12-2025",
+        "previous_activity_week": "5",
+        "current_activity_week": "6",
+        "activities": [
+          {
+            "name": "Timesheets",
+            "count": 1
+          },
+          {
+            "name": "Projects",
+            "count": 1
+          },
+          {
+            "name": "Bills",
+            "count": 3
+          },
+          {
+            "name": "Scheduling",
+            "count": 4
+          },
+          {
+            "name": "Suppliers",
+            "count": 6
+          }
+        ]
+      },
+      {
+        "start_range": "15-12-2025",
+        "end_range": "21-12-2025",
+        "previous_activity_week": "6",
+        "current_activity_week": "7",
+        "activities": [
+          {
+            "name": "Cost Tracking",
+            "count": 1
+          },
+          {
+            "name": "Leave Management",
+            "count": 3
+          },
+          {
+            "name": "Scheduling",
+            "count": 8
+          },
+          {
+            "name": "Suppliers",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "start_range": "22-12-2025",
+        "end_range": "28-12-2025",
+        "previous_activity_week": "7",
+        "current_activity_week": "8",
+        "activities": [
+          {
+            "name": "Bills",
+            "count": 1
+          },
+          {
+            "name": "Scheduling",
+            "count": 5
+          }
+        ]
+      },
+      {
+        "start_range": "29-12-2025",
+        "end_range": "04-01-2026",
+        "previous_activity_week": "8",
+        "current_activity_week": "9",
+        "activities": [
+          {
+            "name": "Variations",
+            "count": 1
+          },
+          {
+            "name": "Suppliers",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "start_range": "05-01-2026",
+        "end_range": "11-01-2026",
+        "previous_activity_week": "9",
+        "current_activity_week": "10",
+        "activities": [
+          {
+            "name": "Scheduling",
+            "count": 9
+          }
+        ]
+      },
+      {
+        "start_range": "12-01-2026",
+        "end_range": "18-01-2026",
+        "previous_activity_week": "10",
+        "current_activity_week": "11",
+        "activities": []
+      }
+    ],
+    "client_representatives": []
+  },
+  {
+    "client_name": "Varicon Test 1",
+    "usage": [
+      {
+        "start_range": "27-10-2025",
+        "end_range": "02-11-2025",
+        "previous_activity_week": "",
+        "current_activity_week": "0",
+        "activities": []
+      },
+      {
+        "start_range": "03-11-2025",
+        "end_range": "09-11-2025",
+        "previous_activity_week": "0",
+        "current_activity_week": "1",
+        "activities": []
+      },
+      {
+        "start_range": "10-11-2025",
+        "end_range": "16-11-2025",
+        "previous_activity_week": "1",
+        "current_activity_week": "2",
+        "activities": []
+      },
+      {
+        "start_range": "17-11-2025",
+        "end_range": "23-11-2025",
+        "previous_activity_week": "2",
+        "current_activity_week": "3",
+        "activities": []
+      },
+      {
+        "start_range": "24-11-2025",
+        "end_range": "30-11-2025",
+        "previous_activity_week": "3",
+        "current_activity_week": "4",
+        "activities": []
+      },
+      {
+        "start_range": "01-12-2025",
+        "end_range": "07-12-2025",
+        "previous_activity_week": "4",
+        "current_activity_week": "5",
+        "activities": []
+      },
+      {
+        "start_range": "08-12-2025",
+        "end_range": "14-12-2025",
+        "previous_activity_week": "5",
+        "current_activity_week": "6",
+        "activities": [
+          {
+            "name": "Suppliers",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "start_range": "15-12-2025",
+        "end_range": "21-12-2025",
+        "previous_activity_week": "6",
+        "current_activity_week": "7",
+        "activities": []
+      },
+      {
+        "start_range": "22-12-2025",
+        "end_range": "28-12-2025",
+        "previous_activity_week": "7",
+        "current_activity_week": "8",
+        "activities": []
+      },
+      {
+        "start_range": "29-12-2025",
+        "end_range": "04-01-2026",
+        "previous_activity_week": "8",
+        "current_activity_week": "9",
+        "activities": []
+      },
+      {
+        "start_range": "05-01-2026",
+        "end_range": "11-01-2026",
+        "previous_activity_week": "9",
+        "current_activity_week": "10",
+        "activities": []
+      },
+      {
+        "start_range": "12-01-2026",
+        "end_range": "18-01-2026",
+        "previous_activity_week": "10",
+        "current_activity_week": "11",
+        "activities": []
+      }
+    ],
+    "client_representatives": []
+  },
+  {
+    "client_name": "Varicon Test 3",
+    "usage": [
+      {
+        "start_range": "27-10-2025",
+        "end_range": "02-11-2025",
+        "previous_activity_week": "",
+        "current_activity_week": "0",
+        "activities": []
+      },
+      {
+        "start_range": "03-11-2025",
+        "end_range": "09-11-2025",
+        "previous_activity_week": "0",
+        "current_activity_week": "1",
+        "activities": []
+      },
+      {
+        "start_range": "10-11-2025",
+        "end_range": "16-11-2025",
+        "previous_activity_week": "1",
+        "current_activity_week": "2",
+        "activities": []
+      },
+      {
+        "start_range": "17-11-2025",
+        "end_range": "23-11-2025",
+        "previous_activity_week": "2",
+        "current_activity_week": "3",
+        "activities": []
+      },
+      {
+        "start_range": "24-11-2025",
+        "end_range": "30-11-2025",
+        "previous_activity_week": "3",
+        "current_activity_week": "4",
+        "activities": []
+      },
+      {
+        "start_range": "01-12-2025",
+        "end_range": "07-12-2025",
+        "previous_activity_week": "4",
+        "current_activity_week": "5",
+        "activities": []
+      },
+      {
+        "start_range": "08-12-2025",
+        "end_range": "14-12-2025",
+        "previous_activity_week": "5",
+        "current_activity_week": "6",
+        "activities": []
+      },
+      {
+        "start_range": "15-12-2025",
+        "end_range": "21-12-2025",
+        "previous_activity_week": "6",
+        "current_activity_week": "7",
+        "activities": []
+      },
+      {
+        "start_range": "22-12-2025",
+        "end_range": "28-12-2025",
+        "previous_activity_week": "7",
+        "current_activity_week": "8",
+        "activities": []
+      },
+      {
+        "start_range": "29-12-2025",
+        "end_range": "04-01-2026",
+        "previous_activity_week": "8",
+        "current_activity_week": "9",
+        "activities": []
+      },
+      {
+        "start_range": "05-01-2026",
+        "end_range": "11-01-2026",
+        "previous_activity_week": "9",
+        "current_activity_week": "10",
+        "activities": []
+      },
+      {
+        "start_range": "12-01-2026",
+        "end_range": "18-01-2026",
+        "previous_activity_week": "10",
+        "current_activity_week": "11",
+        "activities": []
+      }
+    ],
+    "client_representatives": []
+  }
+]

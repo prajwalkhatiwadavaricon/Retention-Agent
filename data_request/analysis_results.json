@@ -1,0 +1,245 @@
+[
+  {
+    "client_name": "Beni Bazar",
+    "risk_factor": "high",
+    "churn_probability": 95,
+    "total_usage_count": 12,
+    "total_modules_used": 3,
+    "active_modules": [
+      "Projects",
+      "Tasks",
+      "Timesheets"
+    ],
+    "most_used_modules": [
+      {
+        "name": "Timesheets",
+        "count": 5
+      },
+      {
+        "name": "Tasks",
+        "count": 5
+      },
+      {
+        "name": "Projects",
+        "count": 2
+      }
+    ],
+    "least_used_modules": [
+      "Timesheets",
+      "Tasks",
+      "Projects"
+    ],
+    "usage_trend": "decreasing_to_inactive",
+    "trend_percentage": -100.0,
+    "weeks_active": 2,
+    "bug_tickets_affecting": [],
+    "usage_health_score": 5,
+    "key_concerns": [
+      "Extremely low usage volume (0.1% of benchmark).",
+      "Limited module breadth (3 modules used, below the 4-module stability threshold).",
+      "Usage trend is decreasing_to_inactive (trend: -100.0%).",
+      "Very low engagement, active in only 2 out of 12 weeks."
+    ],
+    "recommendations": [
+      "Conduct an urgent outreach to understand current platform utilization and identify any blockers or unmet needs.",
+      "Identify key workflows not being utilized and offer targeted training or use-case demonstrations.",
+      "Investigate reasons for decline; consider proactive intervention, re-engagement campaigns, or feature showcases.",
+      "Explore opportunities to integrate Varicon more deeply into daily operations and provide regular touchpoints."
+    ],
+    "summary": "CS Team shows a high churn risk. Total usage of 12 activities is very low compared to the benchmark. Only 3 modules were used, indicating narrow adoption. Usage has been decreasing_to_inactive with a -100.0% change over the 12 weeks. The client was active in 2 out of 12 weeks."
+  },
+  {
+    "client_name": "Biwash Tenant",
+    "risk_factor": "high",
+    "churn_probability": 100,
+    "total_usage_count": 0,
+    "total_modules_used": 0,
+    "active_modules": [],
+    "most_used_modules": [],
+    "least_used_modules": [],
+    "usage_trend": "inactive",
+    "trend_percentage": 0.0,
+    "weeks_active": 0,
+    "bug_tickets_affecting": [],
+    "usage_health_score": 0,
+    "key_concerns": [
+      "Extremely low usage volume (0.0% of benchmark).",
+      "Limited module breadth (0 modules used, below the 4-module stability threshold).",
+      "Client is completely inactive for the entire 12-week period.",
+      "Very low engagement, active in only 0 out of 12 weeks."
+    ],
+    "recommendations": [
+      "Conduct an urgent outreach to understand current platform utilization and identify any blockers or unmet needs.",
+      "Identify key workflows not being utilized and offer targeted training or use-case demonstrations.",
+      "Immediate investigation to confirm client status and potential churn. Urgent outreach required if still a client.",
+      "Explore opportunities to integrate Varicon more deeply into daily operations and provide regular touchpoints."
+    ],
+    "summary": "NEWMYOB shows a high churn risk. Total usage of 0 activities is very low compared to the benchmark. Only 0 modules were used, indicating narrow adoption. The client has been completely inactive for the entire 12-week period. The client was active in 0 out of 12 weeks."
+  },
+  {
+    "client_name": "Product tenant Varicon",
+    "risk_factor": "high",
+    "churn_probability": 95,
+    "total_usage_count": 122,
+    "total_modules_used": 11,
+    "active_modules": [
+      "Claims",
+      "Cost Tracking",
+      "Custom Forms",
+      "Daywork Dockets",
+      "Delivery Dockets",
+      "Projects",
+      "Purchase Orders",
+      "Reports",
+      "Suppliers",
+      "Tasks",
+      "Timesheets"
+    ],
+    "most_used_modules": [
+      {
+        "name": "Timesheets",
+        "count": 25
+      },
+      {
+        "name": "Tasks",
+        "count": 19
+      },
+      {
+        "name": "Suppliers",
+        "count": 17
+      }
+    ],
+    "least_used_modules": [
+      "Projects",
+      "Custom Forms",
+      "Daywork Dockets"
+    ],
+    "usage_trend": "decreasing_to_inactive",
+    "trend_percentage": -100.0,
+    "weeks_active": 5,
+    "bug_tickets_affecting": [],
+    "usage_health_score": 5,
+    "key_concerns": [
+      "Extremely low usage volume (1.3% of benchmark).",
+      "Usage trend is decreasing_to_inactive (trend: -100.0%).",
+      "Sporadic engagement, active in only 5 out of 12 weeks."
+    ],
+    "recommendations": [
+      "Conduct an urgent outreach to understand current platform utilization and identify any blockers or unmet needs.",
+      "Investigate reasons for decline; consider proactive intervention, re-engagement campaigns, or feature showcases.",
+      "Encourage more consistent usage through reminders or highlighting benefits of regular interaction."
+    ],
+    "summary": "Product tenant Varicon shows a high churn risk. Total usage of 122 activities is very low compared to the benchmark. A healthy 11 modules were used. Usage has been decreasing_to_inactive with a -100.0% change over the 12 weeks. The client was active in 5 out of 12 weeks."
+  },
+  {
+    "client_name": "Staging 2",
+    "risk_factor": "high",
+    "churn_probability": 95,
+    "total_usage_count": 406,
+    "total_modules_used": 13,
+    "active_modules": [
+      "Claims",
+      "Cost Tracking",
+      "Custom Forms",
+      "Daywork Dockets",
+      "Delivery Dockets",
+      "Projects",
+      "Purchase Orders",
+      "Reports",
+      "Resources",
+      "Suppliers",
+      "Tasks",
+      "Timesheets",
+      "Variations"
+    ],
+    "most_used_modules": [
+      {
+        "name": "Resources",
+        "count": 150
+      },
+      {
+        "name": "Custom Forms",
+        "count": 111
+      },
+      {
+        "name": "Timesheets",
+        "count": 42
+      }
+    ],
+    "least_used_modules": [
+      "Suppliers",
+      "Variations",
+      "Projects"
+    ],
+    "usage_trend": "decreasing_to_inactive",
+    "trend_percentage": -100.0,
+    "weeks_active": 5,
+    "bug_tickets_affecting": [],
+    "usage_health_score": 5,
+    "key_concerns": [
+      "Extremely low usage volume (4.3% of benchmark).",
+      "Usage trend is decreasing_to_inactive (trend: -100.0%).",
+      "Sporadic engagement, active in only 5 out of 12 weeks."
+    ],
+    "recommendations": [
+      "Conduct an urgent outreach to understand current platform utilization and identify any blockers or unmet needs.",
+      "Investigate reasons for decline; consider proactive intervention, re-engagement campaigns, or feature showcases.",
+      "Encourage more consistent usage through reminders or highlighting benefits of regular interaction."
+    ],
+    "summary": "Staging 2 shows a high churn risk. Total usage of 406 activities is very low compared to the benchmark. A healthy 13 modules were used. Usage has been decreasing_to_inactive with a -100.0% change over the 12 weeks. The client was active in 5 out of 12 weeks."
+  },
+  {
+    "client_name": "Varicon Staging",
+    "risk_factor": "high",
+    "churn_probability": 95,
+    "total_usage_count": 219,
+    "total_modules_used": 10,
+    "active_modules": [
+      "Claims",
+      "Custom Forms",
+      "Daywork Dockets",
+      "Delivery Dockets",
+      "Projects",
+      "Purchase Orders",
+      "Reports",
+      "Suppliers",
+      "Tasks",
+      "Timesheets"
+    ],
+    "most_used_modules": [
+      {
+        "name": "Custom Forms",
+        "count": 78
+      },
+      {
+        "name": "Timesheets",
+        "count": 47
+      },
+      {
+        "name": "Claims",
+        "count": 38
+      }
+    ],
+    "least_used_modules": [
+      "Projects",
+      "Reports",
+      "Tasks"
+    ],
+    "usage_trend": "decreasing_to_inactive",
+    "trend_percentage": -100.0,
+    "weeks_active": 5,
+    "bug_tickets_affecting": [],
+    "usage_health_score": 5,
+    "key_concerns": [
+      "Extremely low usage volume (2.3% of benchmark).",
+      "Usage trend is decreasing_to_inactive (trend: -100.0%).",
+      "Sporadic engagement, active in only 5 out of 12 weeks."
+    ],
+    "recommendations": [
+      "Conduct an urgent outreach to understand current platform utilization and identify any blockers or unmet needs.",
+      "Investigate reasons for decline; consider proactive intervention, re-engagement campaigns, or feature showcases.",
+      "Encourage more consistent usage through reminders or highlighting benefits of regular interaction."
+    ],
+    "summary": "Varicon Staging shows a high churn risk. Total usage of 219 activities is very low compared to the benchmark. A healthy 10 modules were used. Usage has been decreasing_to_inactive with a -100.0% change over the 12 weeks. The client was active in 5 out of 12 weeks."
+  }
+]

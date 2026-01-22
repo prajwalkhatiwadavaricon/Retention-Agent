@@ -1,0 +1,758 @@
+{
+  "issues": [
+      {
+          "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+          "id": "47952",
+          "self": "https://varicon.atlassian.net/rest/api/3/issue/47952",
+          "key": "H2-13",
+          "fields": {
+              "summary": "Claims export format inconsistent (Construction KaT)",
+              "created": "2026-01-13T14:51:17.864+0545",
+              "description": {
+                  "type": "doc",
+                  "version": 1,
+                  "content": [
+                      {
+                          "type": "paragraph",
+                          "content": [
+                              {
+                                  "type": "text",
+                                  "text": "Client: Construction KaT\nModule: Claims"
+                              }
+                          ]
+                      },
+                      {
+                          "type": "paragraph",
+                          "content": [
+                              {
+                                  "type": "text",
+                                  "text": "Exported claims CSV format differs from documentation. Expected: Match documented format for integrations."
+                              }
+                          ]
+                      }
+                  ]
+              },
+              "priority": {
+                  "self": "https://varicon.atlassian.net/rest/api/3/priority/3",
+                  "iconUrl": "https://varicon.atlassian.net/images/icons/priorities/medium_new.svg",
+                  "name": "Medium",
+                  "id": "3"
+              },
+              "updated": "2026-01-13T14:51:38.180+0545",
+              "status": {
+                  "self": "https://varicon.atlassian.net/rest/api/3/status/10036",
+                  "description": "",
+                  "iconUrl": "https://varicon.atlassian.net/",
+                  "name": "In Review",
+                  "id": "10036",
+                  "statusCategory": {
+                      "self": "https://varicon.atlassian.net/rest/api/3/statuscategory/4",
+                      "id": 4,
+                      "key": "indeterminate",
+                      "colorName": "yellow",
+                      "name": "In Progress"
+                  }
+              },
+              "labels": [
+                  "Claims"
+              ]
+          }
+      },
+      {
+          "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+          "id": "47951",
+          "self": "https://varicon.atlassian.net/rest/api/3/issue/47951",
+          "key": "H2-12",
+          "fields": {
+              "summary": "Purchase Order mobile view missing features (Development)",
+              "created": "2026-01-13T14:50:53.576+0545",
+              "description": {
+                  "type": "doc",
+                  "version": 1,
+                  "content": [
+                      {
+                          "type": "paragraph",
+                          "content": [
+                              {
+                                  "type": "text",
+                                  "text": "Client: Development\nModule: Purchase Order"
+                              }
+                          ]
+                      },
+                      {
+                          "type": "paragraph",
+                          "content": [
+                              {
+                                  "type": "text",
+                                  "text": "Mobile view lacks line item editing and attachments. Expected: Parity with desktop features."
+                              }
+                          ]
+                      }
+                  ]
+              },
+              "priority": {
+                  "self": "https://varicon.atlassian.net/rest/api/3/priority/3",
+                  "iconUrl": "https://varicon.atlassian.net/images/icons/priorities/medium_new.svg",
+                  "name": "Medium",
+                  "id": "3"
+              },
+              "updated": "2026-01-13T14:50:53.737+0545",
+              "status": {
+                  "self": "https://varicon.atlassian.net/rest/api/3/status/10000",
+                  "description": "",
+                  "iconUrl": "https://varicon.atlassian.net/",
+                  "name": "To Do",
+                  "id": "10000",
+                  "statusCategory": {
+                      "self": "https://varicon.atlassian.net/rest/api/3/statuscategory/2",
+                      "id": 2,
+                      "key": "new",
+                      "colorName": "blue-gray",
+                      "name": "To Do"
+                  }
+              },
+              "labels": [
+                  "purchaseOrder"
+              ]
+          }
+      },
+      {
+          "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+          "id": "47950",
+          "self": "https://varicon.atlassian.net/rest/api/3/issue/47950",
+          "key": "H2-11",
+          "fields": {
+              "summary": "Delivery Docket number generation not centralized (UB Civil)",
+              "created": "2026-01-13T14:50:32.775+0545",
+              "description": {
+                  "type": "doc",
+                  "version": 1,
+                  "content": [
+                      {
+                          "type": "paragraph",
+                          "content": [
+                              {
+                                  "type": "text",
+                                  "text": "Client: UB Civil\nModule: Delivery Docket"
+                              }
+                          ]
+                      },
+                      {
+                          "type": "paragraph",
+                          "content": [
+                              {
+                                  "type": "text",
+                                  "text": "Docket numbers are generated client-side, causing duplicates. Expected: Centralize number generation on server."
+                              }
+                          ]
+                      }
+                  ]
+              },
+              "priority": {
+                  "self": "https://varicon.atlassian.net/rest/api/3/priority/3",
+                  "iconUrl": "https://varicon.atlassian.net/images/icons/priorities/medium_new.svg",
+                  "name": "Medium",
+                  "id": "3"
+              },
+              "updated": "2026-01-13T14:51:43.288+0545",
+              "status": {
+                  "self": "https://varicon.atlassian.net/rest/api/3/status/3",
+                  "description": "This issue is being actively worked on at the moment by the assignee.",
+                  "iconUrl": "https://varicon.atlassian.net/images/icons/statuses/inprogress.png",
+                  "name": "In Progress",
+                  "id": "3",
+                  "statusCategory": {
+                      "self": "https://varicon.atlassian.net/rest/api/3/statuscategory/4",
+                      "id": 4,
+                      "key": "indeterminate",
+                      "colorName": "yellow",
+                      "name": "In Progress"
+                  }
+              },
+              "labels": [
+                  "deliverydocket"
+              ]
+          }
+      },
+      {
+          "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+          "id": "47949",
+          "self": "https://varicon.atlassian.net/rest/api/3/issue/47949",
+          "key": "H2-10",
+          "fields": {
+              "summary": "Custom Forms offline sync uses old storage API (Development)",
+              "created": "2026-01-13T14:49:03.076+0545",
+              "description": {
+                  "type": "doc",
+                  "version": 1,
+                  "content": [
+                      {
+                          "type": "paragraph",
+                          "content": [
+                              {
+                                  "type": "text",
+                                  "text": "Client: Development\nModule: Custom Forms"
+                              }
+                          ]
+                      },
+                      {
+                          "type": "paragraph",
+                          "content": [
+                              {
+                                  "type": "text",
+                                  "text": "Offline sync relies on deprecated storage API, risking data loss. Expected: Migrate to new storage API."
+                              }
+                          ]
+                      }
+                  ]
+              },
+              "priority": {
+                  "self": "https://varicon.atlassian.net/rest/api/3/priority/3",
+                  "iconUrl": "https://varicon.atlassian.net/images/icons/priorities/medium_new.svg",
+                  "name": "Medium",
+                  "id": "3"
+              },
+              "updated": "2026-01-13T14:49:03.145+0545",
+              "status": {
+                  "self": "https://varicon.atlassian.net/rest/api/3/status/10000",
+                  "description": "",
+                  "iconUrl": "https://varicon.atlassian.net/",
+                  "name": "To Do",
+                  "id": "10000",
+                  "statusCategory": {
+                      "self": "https://varicon.atlassian.net/rest/api/3/statuscategory/2",
+                      "id": 2,
+                      "key": "new",
+                      "colorName": "blue-gray",
+                      "name": "To Do"
+                  }
+              },
+              "labels": [
+                  "Forms"
+              ]
+          }
+      },
+      {
+          "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+          "id": "47948",
+          "self": "https://varicon.atlassian.net/rest/api/3/issue/47948",
+          "key": "H2-9",
+          "fields": {
+              "summary": "Bulk approval lacks error handling (Construction KaT)",
+              "created": "2026-01-13T14:48:38.967+0545",
+              "description": {
+                  "type": "doc",
+                  "version": 1,
+                  "content": [
+                      {
+                          "type": "paragraph",
+                          "content": [
+                              {
+                                  "type": "text",
+                                  "text": "Client: Construction KaT\nModule: Timesheet"
+                              }
+                          ]
+                      },
+                      {
+                          "type": "paragraph",
+                          "content": [
+                              {
+                                  "type": "text",
+                                  "text": "Bulk approval does not handle partial failures, leading to user confusion. Expected: Show clear error messages for failed approvals."
+                              }
+                          ]
+                      }
+                  ]
+              },
+              "priority": {
+                  "self": "https://varicon.atlassian.net/rest/api/3/priority/3",
+                  "iconUrl": "https://varicon.atlassian.net/images/icons/priorities/medium_new.svg",
+                  "name": "Medium",
+                  "id": "3"
+              },
+              "updated": "2026-01-13T14:51:47.295+0545",
+              "status": {
+                  "self": "https://varicon.atlassian.net/rest/api/3/status/3",
+                  "description": "This issue is being actively worked on at the moment by the assignee.",
+                  "iconUrl": "https://varicon.atlassian.net/images/icons/statuses/inprogress.png",
+                  "name": "In Progress",
+                  "id": "3",
+                  "statusCategory": {
+                      "self": "https://varicon.atlassian.net/rest/api/3/statuscategory/4",
+                      "id": 4,
+                      "key": "indeterminate",
+                      "colorName": "yellow",
+                      "name": "In Progress"
+                  }
+              },
+              "labels": [
+                  "Timesheets"
+              ]
+          }
+      },
+      {
+          "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+          "id": "47947",
+          "self": "https://varicon.atlassian.net/rest/api/3/issue/47947",
+          "key": "H2-8",
+          "fields": {
+              "summary": "Bills grid view missing pagination (UB Civil)",
+              "created": "2026-01-13T14:48:13.729+0545",
+              "description": {
+                  "type": "doc",
+                  "version": 1,
+                  "content": [
+                      {
+                          "type": "paragraph",
+                          "content": [
+                              {
+                                  "type": "text",
+                                  "text": "Client: UB Civil\nModule: Bills"
+                              }
+                          ]
+                      },
+                      {
+                          "type": "paragraph",
+                          "content": [
+                              {
+                                  "type": "text",
+                                  "text": "Bills grid loads all records at once, causing slow performance. Expected: Add pagination for better UX."
+                              }
+                          ]
+                      }
+                  ]
+              },
+              "priority": {
+                  "self": "https://varicon.atlassian.net/rest/api/3/priority/3",
+                  "iconUrl": "https://varicon.atlassian.net/images/icons/priorities/medium_new.svg",
+                  "name": "Medium",
+                  "id": "3"
+              },
+              "updated": "2026-01-13T14:48:13.880+0545",
+              "status": {
+                  "self": "https://varicon.atlassian.net/rest/api/3/status/10000",
+                  "description": "",
+                  "iconUrl": "https://varicon.atlassian.net/",
+                  "name": "To Do",
+                  "id": "10000",
+                  "statusCategory": {
+                      "self": "https://varicon.atlassian.net/rest/api/3/statuscategory/2",
+                      "id": 2,
+                      "key": "new",
+                      "colorName": "blue-gray",
+                      "name": "To Do"
+                  }
+              },
+              "labels": [
+                  "Bills"
+              ]
+          }
+      },
+      {
+          "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+          "id": "47946",
+          "self": "https://varicon.atlassian.net/rest/api/3/issue/47946",
+          "key": "H2-7",
+          "fields": {
+              "summary": "Claims report generation not optimized (Construction KaT)",
+              "created": "2026-01-13T14:47:53.268+0545",
+              "description": {
+                  "type": "doc",
+                  "version": 1,
+                  "content": [
+                      {
+                          "type": "paragraph",
+                          "content": [
+                              {
+                                  "type": "text",
+                                  "text": "Client: Construction KaT\nModule: Claims"
+                              }
+                          ]
+                      },
+                      {
+                          "type": "paragraph",
+                          "content": [
+                              {
+                                  "type": "text",
+                                  "text": "Monthly claims report takes too long to generate. Expected: Report generated within 1 minute."
+                              }
+                          ]
+                      }
+                  ]
+              },
+              "priority": {
+                  "self": "https://varicon.atlassian.net/rest/api/3/priority/3",
+                  "iconUrl": "https://varicon.atlassian.net/images/icons/priorities/medium_new.svg",
+                  "name": "Medium",
+                  "id": "3"
+              },
+              "updated": "2026-01-13T14:47:53.366+0545",
+              "status": {
+                  "self": "https://varicon.atlassian.net/rest/api/3/status/10000",
+                  "description": "",
+                  "iconUrl": "https://varicon.atlassian.net/",
+                  "name": "To Do",
+                  "id": "10000",
+                  "statusCategory": {
+                      "self": "https://varicon.atlassian.net/rest/api/3/statuscategory/2",
+                      "id": 2,
+                      "key": "new",
+                      "colorName": "blue-gray",
+                      "name": "To Do"
+                  }
+              },
+              "labels": [
+                  "Claims"
+              ]
+          }
+      },
+      {
+          "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+          "id": "47945",
+          "self": "https://varicon.atlassian.net/rest/api/3/issue/47945",
+          "key": "H2-6",
+          "fields": {
+              "summary": "Purchase Order approval flow lacks audit logging (UB Civil)",
+              "created": "2026-01-13T14:47:26.775+0545",
+              "description": {
+                  "type": "doc",
+                  "version": 1,
+                  "content": [
+                      {
+                          "type": "paragraph",
+                          "content": [
+                              {
+                                  "type": "text",
+                                  "text": "Client: UB Civil\nModule: Purchase Order"
+                              }
+                          ]
+                      },
+                      {
+                          "type": "paragraph",
+                          "content": [
+                              {
+                                  "type": "text",
+                                  "text": "Approval actions are not logged in the audit trail. Expected: All approvals recorded for compliance."
+                              }
+                          ]
+                      }
+                  ]
+              },
+              "priority": {
+                  "self": "https://varicon.atlassian.net/rest/api/3/priority/3",
+                  "iconUrl": "https://varicon.atlassian.net/images/icons/priorities/medium_new.svg",
+                  "name": "Medium",
+                  "id": "3"
+              },
+              "updated": "2026-01-13T14:51:51.333+0545",
+              "status": {
+                  "self": "https://varicon.atlassian.net/rest/api/3/status/3",
+                  "description": "This issue is being actively worked on at the moment by the assignee.",
+                  "iconUrl": "https://varicon.atlassian.net/images/icons/statuses/inprogress.png",
+                  "name": "In Progress",
+                  "id": "3",
+                  "statusCategory": {
+                      "self": "https://varicon.atlassian.net/rest/api/3/statuscategory/4",
+                      "id": 4,
+                      "key": "indeterminate",
+                      "colorName": "yellow",
+                      "name": "In Progress"
+                  }
+              },
+              "labels": [
+                  "purchaseOrder"
+              ]
+          }
+      },
+      {
+          "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+          "id": "47944",
+          "self": "https://varicon.atlassian.net/rest/api/3/issue/47944",
+          "key": "H2-5",
+          "fields": {
+              "summary": "Delivery Docket PDF export uses legacy service (Development)",
+              "created": "2026-01-13T14:46:54.441+0545",
+              "description": {
+                  "type": "doc",
+                  "version": 1,
+                  "content": [
+                      {
+                          "type": "paragraph",
+                          "content": [
+                              {
+                                  "type": "text",
+                                  "text": "Client: Development\nModule: Delivery Docket"
+                              }
+                          ]
+                      },
+                      {
+                          "type": "paragraph",
+                          "content": [
+                              {
+                                  "type": "text",
+                                  "text": "PDF export still calls legacy backend, causing failures for large dockets. Expected: Use new export service."
+                              }
+                          ]
+                      }
+                  ]
+              },
+              "priority": {
+                  "self": "https://varicon.atlassian.net/rest/api/3/priority/3",
+                  "iconUrl": "https://varicon.atlassian.net/images/icons/priorities/medium_new.svg",
+                  "name": "Medium",
+                  "id": "3"
+              },
+              "updated": "2026-01-13T14:46:54.565+0545",
+              "status": {
+                  "self": "https://varicon.atlassian.net/rest/api/3/status/10000",
+                  "description": "",
+                  "iconUrl": "https://varicon.atlassian.net/",
+                  "name": "To Do",
+                  "id": "10000",
+                  "statusCategory": {
+                      "self": "https://varicon.atlassian.net/rest/api/3/statuscategory/2",
+                      "id": 2,
+                      "key": "new",
+                      "colorName": "blue-gray",
+                      "name": "To Do"
+                  }
+              },
+              "labels": [
+                  "deliverydocket"
+              ]
+          }
+      },
+      {
+          "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+          "id": "47943",
+          "self": "https://varicon.atlassian.net/rest/api/3/issue/47943",
+          "key": "H2-4",
+          "fields": {
+              "summary": "Timesheet UI uses deprecated components (UB Civil)",
+              "created": "2026-01-13T14:46:25.974+0545",
+              "description": {
+                  "type": "doc",
+                  "version": 1,
+                  "content": [
+                      {
+                          "type": "paragraph",
+                          "content": [
+                              {
+                                  "type": "text",
+                                  "text": "Client: UB Civil\nModule: Timesheet"
+                              }
+                          ]
+                      },
+                      {
+                          "type": "paragraph",
+                          "content": [
+                              {
+                                  "type": "text",
+                                  "text": "Timesheet entry UI relies on deprecated UI library, leading to inconsistent styling. Expected: Use supported UI components."
+                              }
+                          ]
+                      }
+                  ]
+              },
+              "priority": {
+                  "self": "https://varicon.atlassian.net/rest/api/3/priority/3",
+                  "iconUrl": "https://varicon.atlassian.net/images/icons/priorities/medium_new.svg",
+                  "name": "Medium",
+                  "id": "3"
+              },
+              "updated": "2026-01-13T14:46:26.399+0545",
+              "status": {
+                  "self": "https://varicon.atlassian.net/rest/api/3/status/10036",
+                  "description": "",
+                  "iconUrl": "https://varicon.atlassian.net/",
+                  "name": "In Review",
+                  "id": "10036",
+                  "statusCategory": {
+                      "self": "https://varicon.atlassian.net/rest/api/3/statuscategory/4",
+                      "id": 4,
+                      "key": "indeterminate",
+                      "colorName": "yellow",
+                      "name": "In Progress"
+                  }
+              },
+              "labels": [
+                  "Timesheets"
+              ]
+          }
+      },
+      {
+          "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+          "id": "47942",
+          "self": "https://varicon.atlassian.net/rest/api/3/issue/47942",
+          "key": "H2-3",
+          "fields": {
+              "summary": "Custom Forms validation logic outdated (Development)",
+              "created": "2026-01-13T14:45:54.234+0545",
+              "description": {
+                  "type": "doc",
+                  "version": 1,
+                  "content": [
+                      {
+                          "type": "paragraph",
+                          "content": [
+                              {
+                                  "type": "text",
+                                  "text": "Client: Development\nModule: Custom Forms"
+                              }
+                          ]
+                      },
+                      {
+                          "type": "paragraph",
+                          "content": [
+                              {
+                                  "type": "text",
+                                  "text": "Validation rules are not aligned with latest requirements, causing user confusion. Expected: Validation matches current form specs."
+                              }
+                          ]
+                      }
+                  ]
+              },
+              "priority": {
+                  "self": "https://varicon.atlassian.net/rest/api/3/priority/3",
+                  "iconUrl": "https://varicon.atlassian.net/images/icons/priorities/medium_new.svg",
+                  "name": "Medium",
+                  "id": "3"
+              },
+              "updated": "2026-01-13T14:45:54.340+0545",
+              "status": {
+                  "self": "https://varicon.atlassian.net/rest/api/3/status/10000",
+                  "description": "",
+                  "iconUrl": "https://varicon.atlassian.net/",
+                  "name": "To Do",
+                  "id": "10000",
+                  "statusCategory": {
+                      "self": "https://varicon.atlassian.net/rest/api/3/statuscategory/2",
+                      "id": 2,
+                      "key": "new",
+                      "colorName": "blue-gray",
+                      "name": "To Do"
+                  }
+              },
+              "labels": [
+                  "Forms"
+              ]
+          }
+      },
+      {
+          "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+          "id": "47941",
+          "self": "https://varicon.atlassian.net/rest/api/3/issue/47941",
+          "key": "H2-2",
+          "fields": {
+              "summary": "Project dashboard slow to load for Construction KaT",
+              "created": "2026-01-13T14:45:17.819+0545",
+              "description": {
+                  "type": "doc",
+                  "version": 1,
+                  "content": [
+                      {
+                          "type": "paragraph",
+                          "content": [
+                              {
+                                  "type": "text",
+                                  "text": "Client: Construction KaT\nModule: Project"
+                              }
+                          ]
+                      },
+                      {
+                          "type": "paragraph",
+                          "content": [
+                              {
+                                  "type": "text",
+                                  "text": "The project dashboard takes over 10 seconds to load for all users. Expected: Loads within 3 seconds."
+                              }
+                          ]
+                      }
+                  ]
+              },
+              "priority": {
+                  "self": "https://varicon.atlassian.net/rest/api/3/priority/3",
+                  "iconUrl": "https://varicon.atlassian.net/images/icons/priorities/medium_new.svg",
+                  "name": "Medium",
+                  "id": "3"
+              },
+              "updated": "2026-01-13T14:45:18.399+0545",
+              "status": {
+                  "self": "https://varicon.atlassian.net/rest/api/3/status/3",
+                  "description": "This issue is being actively worked on at the moment by the assignee.",
+                  "iconUrl": "https://varicon.atlassian.net/images/icons/statuses/inprogress.png",
+                  "name": "In Progress",
+                  "id": "3",
+                  "statusCategory": {
+                      "self": "https://varicon.atlassian.net/rest/api/3/statuscategory/4",
+                      "id": 4,
+                      "key": "indeterminate",
+                      "colorName": "yellow",
+                      "name": "In Progress"
+                  }
+              },
+              "labels": [
+                  "Project"
+              ]
+          }
+      },
+      {
+          "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+          "id": "47838",
+          "self": "https://varicon.atlassian.net/rest/api/3/issue/47838",
+          "key": "H2-1",
+          "fields": {
+              "summary": "Project is not saving even when the required field is filled",
+              "created": "2026-01-13T12:28:39.283+0545",
+              "description": {
+                  "type": "doc",
+                  "version": 1,
+                  "content": [
+                      {
+                          "type": "paragraph",
+                          "content": [
+                              {
+                                  "type": "text",
+                                  "text": "Client Name = “Construction Kat“,"
+                              },
+                              {
+                                  "type": "hardBreak"
+                              },
+                              {
+                                  "type": "text",
+                                  "text": "Module = “Project”"
+                              }
+                          ]
+                      }
+                  ]
+              },
+              "priority": {
+                  "self": "https://varicon.atlassian.net/rest/api/3/priority/2",
+                  "iconUrl": "https://varicon.atlassian.net/images/icons/priorities/high_new.svg",
+                  "name": "High",
+                  "id": "2"
+              },
+              "updated": "2026-01-13T14:16:36.630+0545",
+              "status": {
+                  "self": "https://varicon.atlassian.net/rest/api/3/status/10000",
+                  "description": "",
+                  "iconUrl": "https://varicon.atlassian.net/",
+                  "name": "To Do",
+                  "id": "10000",
+                  "statusCategory": {
+                      "self": "https://varicon.atlassian.net/rest/api/3/statuscategory/2",
+                      "id": 2,
+                      "key": "new",
+                      "colorName": "blue-gray",
+                      "name": "To Do"
+                  }
+              },
+              "labels": [
+                  "Project",
+                  "ProjectDashboard"
+              ]
+          }
+      }
+  ],
+  "isLast": true
+}
